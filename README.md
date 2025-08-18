@@ -5,3 +5,6 @@ ChatGPT said: SkillMatch Pro is an AI-powered career tool where users upload the
 - [BRD – SkillMatch Pro](https://vermasimmi1609.atlassian.net/wiki/x/pYAB)
 - [PRD – SkillMatch Pro](https://vermasimmi1609.atlassian.net/wiki/x/tYAB)
 - [TRD – SkillMatch Pro](https://vermasimmi1609.atlassian.net/wiki/x/BQAG)
+
+## Figma screens
+https://www.figma.com/make/VZgHYafDpoNI3KDANeqAqK/Skill-Based-Job-Matching-Application?node-id=0-4&t=YEvltrOjfFuxM7xJ-1

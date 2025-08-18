@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+}
+
+input, textarea {
+  margin: 10px 0;
+  width: 80%;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
